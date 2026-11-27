@@ -1,0 +1,14 @@
+npm run db:init
+npm run admin:create
+npm run dev
+
+npm run typecheck and npm run build.
+အသုံးများတဲ့တန်ဖိုးများ—
+- 60 = ၁ မိနစ်၊ လက်ရှိ default
+- 300 = ၅ မိနစ်
+- 900 = ၁၅ မိနစ်
+- 1800 = မိနစ် ၃၀
+- 28800 = ၈ နာရီ
+
+
+UHnr3j9FbCCju4W
