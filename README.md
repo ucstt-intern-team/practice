@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FA Workforce employee portal
 
 A Next.js employee sign-in and registration app backed by PostgreSQL. Employee IDs use the format `FA` plus six digits, such as `FA123456`.
@@ -114,3 +115,6 @@ The `proxy.ts` interceptor requires a signed-in session for `/dashboard` and sen
 | `ADMIN_PASSWORD` | For admin setup | Initial admin password |
 
 Keep `.env` out of source control. `npm run admin:create` updates the configured admin's name and password if run again.
+=======
+# practice
+>>>>>>> 16dcc4b6c3e8415cee7c7d5b0a9104aa93bbc703
